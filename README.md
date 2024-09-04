@@ -16,3 +16,8 @@ React Native Taxi App has been integrated with Firebase backend, so it works end
 12) Driver tracking
 13) Modify destination
 14) Modify payment methods
+
+
+
+
+emulator -avd Pixel_3a_API_34_extension_level_7_x86_64 -no-snapshot -no-accel
