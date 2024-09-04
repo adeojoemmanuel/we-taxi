@@ -1,5 +1,5 @@
 # About App
-React Native Taxi App has been integrated with Firebase backend, so it works end to end, being ready to be launched to both app stores right away. The product includes both the consumer app as well as the driver app, for a complete booking flow experience.
+React Native Taxi App integrated with Firebase backend, so it works end to end, being ready to be launched to both app stores right away. The product includes both the consumer app as well as the driver app, for a complete booking flow experience.
 
 # React Native Taxi App – Features
 1) Multiple comfort levels
@@ -18,6 +18,8 @@ React Native Taxi App has been integrated with Firebase backend, so it works end
 14) Modify payment methods
 
 
+
+## run emulaor with  command 
 
 
 emulator -avd Pixel_3a_API_34_extension_level_7_x86_64 -no-snapshot -no-accel
